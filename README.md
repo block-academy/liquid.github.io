@@ -1,1 +1,1 @@
-# liquid.github.io
+# Liquid Sidechains for Digital assets.
